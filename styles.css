@@ -1,0 +1,54 @@
+* {
+  margin: none;
+  border: none;
+  padding: none;
+}
+
+body {
+  background-color: aqua;
+}
+
+#nav-bar {
+  background-color: aliceblue;
+  margin: none;
+  padding: 40px;
+}
+
+#get-color {
+  width: 70px;
+  height: 45px;
+}
+
+.nav-inputs {
+  display: flex;
+  justify-content: space-between;
+}
+
+#color {
+  width: 70%;
+}
+
+#button {
+  width: 14%;
+  cursor: pointer;
+}
+
+#color-code {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-around;
+}
+
+#main-select {
+  width: 55.3em;
+  height: 35rem;
+}
+#color-select{
+    display: flex;
+    flex-direction: row;
+}
+.colors {
+  width: 11em;
+  height: 35rem;
+}
+
